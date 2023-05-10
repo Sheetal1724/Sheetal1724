@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...full stack python 
 - 💞️ I’m looking to collaborate on ... python 
-- 📫 How to reach me ... through LinkedIn and hitHub
+- 📫 How to reach me ... through LinkedIn and GitHub
 
 <!---
 Sheetal1724/Sheetal1724 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
