@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheetal1724
+- 👋 Hi, I’m @Sheetal24
 - 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...full stack python 
 - 💞️ I’m looking to collaborate on ... python 
